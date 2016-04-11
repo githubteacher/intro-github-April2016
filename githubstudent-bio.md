@@ -1,5 +1,5 @@
 ## Githubstudent bio file
 
-- Name Aftab
-- Loc: SD Cali
-- Fav Vac: Cabo
+- Name beardofedu
+- Loc: Tampa FL
+- Fav Vac: Dublin
