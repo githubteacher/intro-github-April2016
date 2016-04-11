@@ -1,4 +1,4 @@
-# GitHubDebesh Bi File
+# GitHubDebesh Bio File
 
 - Name: Debesh Nayak
 - Location: Kuturachuan, Sambalpur
