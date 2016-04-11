@@ -4,3 +4,5 @@
 - Q & A Buddy: Cynthia Rich, crichID@github.com
 
 ### Mastering Markdowns, https://guides.github.com/features/mastering-markdown/
+
+:octocat:
