@@ -5,4 +5,4 @@
 - Favorite Food: Jones Brothers cupcakes
 - Favorite thing to visit: Omaha Zoo
 
-Go Nebrask!
+Go Nebraska!
