@@ -1,2 +1,0 @@
-name: chris
-location: london
