@@ -5,3 +5,5 @@
 ### Location: Adelaide
 
 ### Favorite Food: Fasta Pasta, Brighton
+
+### Faorite Hotel: Intercontinental
