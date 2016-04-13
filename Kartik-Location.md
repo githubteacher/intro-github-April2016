@@ -4,6 +4,15 @@
 
 ### Location: Adelaide
 
-### Favorite Food: Fasta Pasta, Brighton
+### Favorite Food:
 
-### Faorite Hotel: Intercontinental
+Fasta Pasta, Brighton
+
+### Faorite Hotel
+
+ Intercontinental
+
+
+### Favorite Places to Visit
+
+Glenelg Beach
